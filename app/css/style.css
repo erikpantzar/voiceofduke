@@ -1,0 +1,26 @@
+body {
+    background: #111;
+    color: #ffa;
+    padding: 2em;
+    font-size: 1.5em;
+}
+
+.button {
+    background: #222;
+    color: #ffa;
+    border: 0;
+
+    font-size: 24px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    width: 100%;
+    line-height: 2em;
+    height: 2em;
+}
+
+select {
+    display: none;
+}
