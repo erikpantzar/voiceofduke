@@ -1,6 +1,6 @@
 # The voice of duke
 
-Trying to build a voice-chat bot.
+Trying to build a voice-chat bot. Duke always listens!
 
 > Running global browser-sync and workspace in chrome, using chrome as IDE.
 
